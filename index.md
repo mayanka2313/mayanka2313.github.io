@@ -1,7 +1,8 @@
 
 # Mayank Arora's Portfolio 
 
-I am a computer science major at CSUF i am planning to graduate in 2028. 
+* Hello!
+    My name is Mayank Arora. I'm originally from the Bay Area. I am a first-year student in the Computer Science Major at CSUF. 
 
 ## Favorite CPSC 120L Labs
  
@@ -12,7 +13,7 @@ I am a computer science major at CSUF i am planning to graduate in 2028.
 * Lab 6, Part 1
 
     This Lab was one of the most fun labs I worked on. This was due to me being excited to learn about Bool variables through black jack. We worked on quite a lot in this lab, we learned how to make bool functions and how to do mathematical problems using code which was pretty interesting. We also learned how to do a lot of things that we can use on our personal projects so that was pretty interesting to me. 
-    
+
 * Lab 10, Part 1
 
     This Lab was another one of my favorites due to its content. I really enjoy learning geographical facts, and this Lab deals with county populations. I also liked it because it showed us how to come up with search queries and how to find a specific thing in a list. Additionally, I really enjoyed it because of my partners, who were always ready to help out.
