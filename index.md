@@ -1,7 +1,7 @@
 
 # Mayank Arora's Portfolio 
 
-I am a computer science major at CSUF i am planning to graduate in 2028
+I am a computer science major at CSUF i am planning to graduate in 2028. 
 
 ## Favorite CPSC 120L Labs
  
