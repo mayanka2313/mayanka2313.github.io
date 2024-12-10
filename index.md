@@ -5,6 +5,11 @@
 
 This is my homepage! My name is Mayank Arora, a first-year student in the Computer Science Major at CSUF. 
 
+# Computer Science projects
+
+My github page is https://github.com/mayanka2313
+
+
 ## Favorite CPSC 120L Labs
  
 * Lab 2, Part 1
