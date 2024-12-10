@@ -1,9 +1,9 @@
 
-# Mayank Arora's Portfolio 
+# Hello World
 
-Hello!
 
-My name is Mayank Arora, I'm originally from the Bay Area I'm also a first-year student in the Computer Science Major at CSUF. 
+
+This is my homepage! My name is Mayank Arora, a first-year student in the Computer Science Major at CSUF. 
 
 ## Favorite CPSC 120L Labs
  
