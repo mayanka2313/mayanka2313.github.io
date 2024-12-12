@@ -1,11 +1,8 @@
 
-# Hello World
-
+# Mayank Arora's Portfolio 
 
 
 This is my homepage! My name is Mayank Arora, a first-year student in the Computer Science Major at CSUF; I plan to graduate in 2028.  
-
-# Computer Science projects
 
 My github page is https://github.com/mayanka2313
 
