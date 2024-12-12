@@ -3,7 +3,7 @@
 
 
 
-This is my homepage! My name is Mayank Arora, a first-year student in the Computer Science Major at CSUF. 
+This is my homepage! My name is Mayank Arora, a first-year student in the Computer Science Major at CSUF; I plan to graduate in 2028.  
 
 # Computer Science projects
 
